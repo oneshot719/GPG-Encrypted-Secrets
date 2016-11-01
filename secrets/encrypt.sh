@@ -9,4 +9,4 @@ echo "Pulling any new keys and importing them."
 
 gpg --encrypt --always-trust -r team_name_here $FILE
 
-echo Don't forget to handle/manage your unencrypted file still present in this directory
+echo Don\'t forget to handle/manage your unencrypted file still present in this directory
